@@ -1,0 +1,11 @@
+1 Virat 899 IND
+2 Rohit 871 IND
+3 Root 807 ENG
+4 Warner 803 AUS
+5 Azam 798 PAK
+6 Taylor 785 NZ
+8 DeKock 769 SA
+7 Williamson 778 NZ
+9 Dhawan 767 IND
+10 DuPlessis 753 SA
+ 
